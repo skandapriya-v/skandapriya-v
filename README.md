@@ -1,5 +1,5 @@
 ### *Hi there, I'm Skanda Priya V*
-*A passionate undergraduate student(Computer Science and Engineering in Data Science), <br>I'm dedicated to learning Machine Learning, DevOps principles, automating processes*<br>
+*A passionate undergraduate student(Computer Science and Engineering in Data Science)*<br>
 
 
 
